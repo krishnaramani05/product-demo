@@ -1,0 +1,12 @@
+table, th,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.error{
+    font-Size: 10px;
+    color: red;
+    margin: 0px;
+    padding: 0px;
+     
+}
